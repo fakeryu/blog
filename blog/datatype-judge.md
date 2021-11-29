@@ -2,7 +2,7 @@
 slug: datatype
 title: Datatype-Judge
 authors:
-  name: Berg
+  name: BergYu
   title: how to judge it
 tags: [funcs]
 ---
