@@ -32,7 +32,7 @@ module.exports = {
           position: 'right'
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/fakeryu',
           label: 'GitHub',
           position: 'right',
         },
@@ -55,13 +55,9 @@ module.exports = {
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+              label: 'BiliBili',
+              href: 'https://www.bilibili.com/',
+            }
           ],
         },
         {
@@ -72,7 +68,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/fakeryu',
             },
           ],
         },
